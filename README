@@ -1,0 +1,6 @@
+A chat application using raw websockets in Node.js that has following features-
+ Allow an admin to create a new chat room. Admin should be allowed to set the following properties on the room-
+Name
+Start time
+Allow a user to join the room 
+
